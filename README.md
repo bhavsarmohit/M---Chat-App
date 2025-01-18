@@ -35,3 +35,7 @@ The UX prototype was designed with the following goals in mind:
 ├── docs/
 │   ├── prototype.md  # Detailed description of the UX flow
 ├── README.md         # This file
+```
+
+👩‍💻 Designed and developed with ❤️ by Mohit Bhavsar
+
