@@ -23,7 +23,7 @@ The UX prototype was designed with the following goals in mind:
 - **Wireframes**: Low-fidelity and high-fidelity screens created for core functionalities.
 
 ## 🚀 How to Use the Prototype
-1. Open the prototype link: [Prototype Demo](#)
+1. Open the prototype link: [Prototype Demo](https://www.figma.com/proto/CMZiU076hu82gRYBhEKlgi/M?node-id=5-14&starting-point-node-id=5%3A14)
 2. Explore the features by interacting with buttons, menus, and other UI elements.
 3. Share your feedback using the form provided in the demo.
 
